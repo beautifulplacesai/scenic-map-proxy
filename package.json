@@ -1,0 +1,19 @@
+{
+  "name": "scenic-map-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for Scenic POI API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "netlify",
+    "serverless",
+    "proxy"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
